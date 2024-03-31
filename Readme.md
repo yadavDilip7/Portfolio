@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
->https://yadavdilip7.github.io/Portfolio/
+>[https://yadavdilip7.github.io/Portfolio/](http://192.168.10.70:5500/personalPortfolio/index.html)
 
 :star: Star me on GitHub — it helps!
 
